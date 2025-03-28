@@ -6,7 +6,7 @@
 [Bb]uilds/
 [Ll]ogs/
 [Uu]ser[Ss]ettings/
-
+ 
 # Arquivos da Unity a serem ignorados
 *.csproj
 *.unityproj
