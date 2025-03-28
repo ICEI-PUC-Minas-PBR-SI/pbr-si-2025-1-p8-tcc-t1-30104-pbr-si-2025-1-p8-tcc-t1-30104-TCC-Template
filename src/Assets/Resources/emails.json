@@ -1,0 +1,146 @@
+{
+    "emails": [
+      
+        {
+            "to": "usuario@dominio.com",
+            "from": "suporte@banco-seguro.com",
+            "subject": "Sua conta será suspensa em 24h!",
+            "description": "Detectamos uma atividade suspeita na sua conta. Acesse imediatamente seu perfil e confirme seus dados clicando no link abaixo.\n\n[Confirmar Conta](http://banco-seguro.com/login)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "atendimento@megafreepromo.com",
+            "subject": "Você ganhou um iPhone 15!",
+            "description": "Parabéns! Você foi sorteado para ganhar um iPhone 15. Para resgatar, basta informar seus dados no link abaixo.\n\n[Receber Prêmio](http://megafreepromo.com/ganhe)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "atendimento@pixgov.com",
+            "subject": "Você tem um PIX disponível!",
+            "description": "O Banco Central liberou um PIX de R$ 1.500,00 para sua conta. Para receber, acesse o link abaixo.\n\n[Receber PIX](http://pixgov.com/saque)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "suporte@guarda-digitall.com",
+            "subject": "URGENTE: Atualização obrigatória do sistema",
+            "description": "Detectamos que sua conta pode estar vulnerável. Para continuar protegido, clique no link abaixo e faça a atualização imediata.\n\n[Atualizar Agora](http://guarda-digitall.com/update)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "alertas@guardadigital-suporte.com",
+            "subject": "Novo recurso de segurança disponível!",
+            "description": "Estamos implementando uma nova camada de proteção para sua conta. Ative agora clicando no link abaixo.\n\n[Ativar Segurança](http://guardadigital-suporte.com/security)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "notificacao@guarda_d1gital.com",
+            "subject": "Seu login foi comprometido!",
+            "description": "Alguém tentou acessar sua conta de um novo dispositivo. Se não foi você, altere sua senha agora.\n\n[Alterar Senha](http://guarda_d1gital.com/reset)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "financeiro@guardadigital.secure.com",
+            "subject": "Fatura pendente - Último aviso",
+            "description": "Identificamos uma fatura em aberto vinculada ao seu perfil. Evite restrições e regularize agora.\n\n[Pagar Fatura](http://guardadigital.secure.com/pay)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "suporte@guarda_digital.com.br",
+            "subject": "Ative sua verificação em dois fatores",
+            "description": "Sua conta está desprotegida! Recomendamos ativar a autenticação em dois fatores imediatamente para evitar invasões.\n\n[Ativar Agora](http://guarda_digital.com.br/security)",
+            "isValid": false
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "atendimento@guardadigital-empresa.com",
+            "subject": "Atualização de senha necessária",
+            "description": "Detectamos um possível vazamento de senhas. Para continuar usando sua conta com segurança, altere sua senha agora.\n\n[Alterar Senha](http://guardadigital-empresa.com/reset)",
+            "isValid": false
+        },
+
+
+
+
+
+
+        
+     
+        {
+            "to": "usuario@dominio.com",
+            "from": "suporte@guarda_digital.com",
+            "subject": "Atualização de segurança do sistema",
+            "description": "Informamos que realizaremos uma atualização de segurança em nossos servidores no próximo sábado. O serviço poderá ficar instável entre 2h e 5h da manhã.",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "alertas@guarda_digital.com",
+            "subject": "Dicas para evitar ataques de phishing",
+            "description": "Nunca clique em links suspeitos e sempre verifique o remetente do e-mail. Em caso de dúvida, entre em contato diretamente pelo nosso site oficial.",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "cursos@guarda_digital.com",
+            "subject": "Novo curso gratuito de cibersegurança",
+            "description": "Estamos lançando um curso gratuito sobre boas práticas de segurança digital. Inscreva-se agora pelo nosso site e aprimore seu conhecimento!",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "eventos@guarda_digital.com",
+            "subject": "Participe do nosso webinar sobre segurança online",
+            "description": "Inscreva-se no nosso evento online e aprenda como se proteger contra golpes digitais. O webinar será no dia 15 às 19h.",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "vagas@guarda_digital.com",
+            "subject": "Estamos contratando especialistas em segurança",
+            "description": "Tem experiência com cibersegurança? A Guarda Digital está com novas vagas abertas. Candidate-se agora e faça parte da nossa equipe!",
+            "isValid": true
+        },
+                {
+            "to": "usuario@dominio.com",
+            "from": "seguranca@guarda_digital.com",
+            "subject": "Aviso: Tentativa de login não reconhecida",
+            "description": "Detectamos uma tentativa de login em sua conta a partir de um novo dispositivo. Se não foi você, altere sua senha imediatamente e ative a autenticação em dois fatores.",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "pesquisa@guarda_digital.com",
+            "subject": "Ajude-nos a melhorar a sua segurança online",
+            "description": "Estamos realizando uma pesquisa rápida para melhorar nossos serviços. Participe e nos ajude a tornar a internet mais segura para todos!",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "atendimento@guarda_digital.com",
+            "subject": "Suporte Técnico: Como podemos ajudar?",
+            "description": "Nosso suporte está disponível 24h para te ajudar. Se precisar de assistência, basta responder a este e-mail ou acessar nosso chat ao vivo.",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "newsletter@guarda_digital.com",
+            "subject": "Últimas novidades sobre cibersegurança",
+            "description": "Confira as principais notícias do mundo da cibersegurança desta semana. Fique atualizado sobre as novas ameaças e aprenda a se proteger melhor.",
+            "isValid": true
+        },
+        {
+            "to": "usuario@dominio.com",
+            "from": "faturamento@guarda_digital.com",
+            "subject": "Comprovante de pagamento disponível",
+            "description": "Seu pagamento foi processado com sucesso. O comprovante já está disponível em sua conta. Caso tenha dúvidas, entre em contato conosco.",
+            "isValid": true
+        }
+    ]
+}
